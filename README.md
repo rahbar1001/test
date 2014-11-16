@@ -1,4 +1,4 @@
 test
 ====
 
-this is just a test project - please ignore.
+This is just a test project - please ignore.
